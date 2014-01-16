@@ -27,3 +27,11 @@
 * potentially remove data_translator..
 * data parser for snmp
 * add graphty..
+* move data loader stuff out of test_dash...
+
+# fetch data
+# copy data locally
+# parse data
+# translate data
+# map data to database
+# dashboard uses views..
