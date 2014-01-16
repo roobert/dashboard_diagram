@@ -13,7 +13,7 @@
        |
     (class)
        |
-   data_mapper -------> graphty (switch infrastructure)
-       |           '--> graphty (machine infrastructure)
+   data_mapper / test_dash -------> graphty (switch infrastructure)
+       |                       '--> graphty (machine infrastructure)
   (database)
 ```
