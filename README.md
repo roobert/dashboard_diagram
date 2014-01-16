@@ -29,9 +29,9 @@
 * add graphty..
 * move data loader stuff out of test_dash...
 
-# fetch data
-# copy data locally
-# parse data
-# translate data
-# map data to database
-# dashboard uses views..
+1. fetch data
+1. copy data locally
+1. parse data
+1. translate data
+1. map data to database
+1. dashboard uses views..
