@@ -1,5 +1,6 @@
+# Dashboard Diagram
 
-                                                                                data
+```
  data_fetch_daemon <----> switch_exec <------------------------------------ switch configs
        |              '-> switch_exec <------------------------------------ switch bridge address-table
    (file system)      '-> mcollective <- mcollective_agent-network_agent <- mcollective data
@@ -15,3 +16,4 @@
       orr ------------> graphty (switch infrastructure)
        |           '--> graphty (machine infrastructure)
   (database)
+```
