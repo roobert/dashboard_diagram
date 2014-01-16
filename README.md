@@ -9,11 +9,11 @@
        |
      (hash)
        |
-     towser
+  data_translator
        |
     (class)
        |
-      orr ------------> graphty (switch infrastructure)
+   data_mapper -------> graphty (switch infrastructure)
        |           '--> graphty (machine infrastructure)
   (database)
 ```
